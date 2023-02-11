@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <div class="nav">
+            <h1>Bilgi Kartları</h1>
+            <div>
+                <button onclick="showCreateCardBox()">Yeni Kart Oluştur</button>
+                <button onclick="delFlashcards()">Kartları Sil</button>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="container">
+    <div class="create-box">
+        <h2 style="text-align: center;color: black;">Kart Oluşturma</h2>
+        <label for="question">Soru</label>
+        <textarea id="question"></textarea>
+        <br>
+        <label for="answer">Cevap</label>
+        <textarea id="answer"></textarea>
+        <div>
+            <button onclick="addFlashcard()">Kaydet</button>
+            <button onclick="hideCreateBox()">İptal</button>
+        </div>
+    </div>
+    <div class="flashcards"></div>
+</div>
+<script src="main.js"></script>
+</body>
+</html>
