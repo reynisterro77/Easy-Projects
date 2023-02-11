@@ -1,4 +1,4 @@
-# easy-projects
+# Easy Projects
 
 - Random Text Generator
 
