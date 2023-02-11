@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #06bcc1;
+}
+.container{
+    padding: 12px 10px;
+    width: 95%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.quotes{
+    width: 900px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 50px;
+    color: gray;
+    background-color: #f4edea;
+    border:10px solid #f4edea;
+}
+
+.quotes p , .quotes h3{
+    font-size: 1.5rem;
+    margin: 5px;
+}
+
+.btn{
+    background: #034b8a;
+    color: #fff;
+    border-radius: 10px;
+    padding: 8px 25px;
+    outline: none;
+    border: none;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+}
+
+@media (max-width: 480px) {
+    .quotes p , .quotes h3{
+        font-size: 1rem;
+    }
+}
