@@ -1,6 +1,6 @@
 # easy-projects
 
--Random Text Generator
+- Random Text Generator
 ![preview img](/rastgele-metin.png)
---Photo Gallery
+- Photo Gallery
 ![preview img](/fotograf-galeri.png)
