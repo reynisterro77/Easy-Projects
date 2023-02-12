@@ -12,3 +12,7 @@
 
 ![preview img](/bilgi-kartı.png)
 
+
+- Time Counter
+
+![preview img](/zaman-sayaci.png)
