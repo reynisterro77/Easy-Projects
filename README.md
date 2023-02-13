@@ -16,3 +16,9 @@
 - Time Counter
 
 ![preview img](/zaman-sayaci.png)
+
+- Math for kids
+
+![preview img](/matematik.png)
+
+
