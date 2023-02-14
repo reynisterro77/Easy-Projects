@@ -28,3 +28,9 @@
 - Typewriter Api
 
 ![preview img](/Daktilo.png)
+
+- Create A Random Color Palette Generato
+
+![preview img](/renk-kart.png)
+
+
