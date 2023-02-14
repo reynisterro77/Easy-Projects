@@ -21,10 +21,10 @@
 
 ![preview img](/matematik.png)
 
--Unsplash Api
+- Unsplash Api
 
 ![preview img](/fotograf.png)
 
---Typewriter Api
+- Typewriter Api
 
 ![preview img](/Daktilo.png)
