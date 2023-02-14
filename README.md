@@ -33,4 +33,8 @@
 
 ![preview img](/renk-kart.png)
 
+- Check Offline or Online Status (Responsive)
+
+![preview img](/baglanti.png)
+
 
