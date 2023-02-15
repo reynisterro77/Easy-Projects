@@ -40,3 +40,8 @@
 - Toast notifications
 
 ![preview img](/toast.png)
+
+-Draggable Slider Tabs
+
+![preview img](/kaydırıcı-sekme.png)
+
