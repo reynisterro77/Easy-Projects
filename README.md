@@ -37,4 +37,6 @@
 
 ![preview img](/baglanti.png)
 
+- Toast notifications
 
+![preview img](/toast.png)
