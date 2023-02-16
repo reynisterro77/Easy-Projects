@@ -41,7 +41,12 @@
 
 ![preview img](/toast.png)
 
--Draggable Slider Tabs
+- Draggable Slider Tabs
 
 ![preview img](/kaydırıcı-sekme.png)
+
+- Image Slider
+
+![preview img](/image-slider.png)
+
 
