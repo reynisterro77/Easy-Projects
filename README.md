@@ -53,4 +53,10 @@
 
 ![preview img](/ilerleme-cubuğu.png)
 
+- Star Rating
+
+![preview img](/stars-derecelendirme.png)
+
+
+
 
