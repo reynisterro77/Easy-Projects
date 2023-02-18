@@ -65,4 +65,8 @@
 
 ![preview img](/ürün-karti.png)
 
+- Skills Bar
+
+![preview img](/skils-bar.png)
+
 
