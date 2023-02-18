@@ -57,6 +57,7 @@
 
 ![preview img](/stars-derecelendirme.png)
 
+- Multiple Typing Text Animation
 
-
+![preview img](/metin-yazma.png)
 
