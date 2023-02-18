@@ -61,3 +61,8 @@
 
 ![preview img](/metin-yazma.png)
 
+- Animated Product Card
+
+![preview img](/ürün-karti.png)
+
+
