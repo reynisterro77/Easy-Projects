@@ -2,7 +2,7 @@
 
 - Random Text Generator
 
-[![preview img](/rastgele-metin.png)]: /Bilgi Kartları localstorage/index.html
+![preview img](/rastgele-metin.png): /Bilgi Kartları localstorage/index.html
 
 
 - Photo Gallery
