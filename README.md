@@ -69,4 +69,8 @@
 
 ![preview img](/skils-bar.png)
 
+- Card Skider Swiper
+
+![preview img](/card-slider.png)
+
 
