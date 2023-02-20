@@ -73,4 +73,8 @@
 
 ![preview img](/card-slider.png)
 
+- Calculator
+
+![preview img](/hesapmakinesi.png)
+
 
