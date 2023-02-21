@@ -77,4 +77,7 @@
 
 ![preview img](/hesapmakinesi.png)
 
+- OTP Code
+
+![preview img](/Otp code.png)
 
