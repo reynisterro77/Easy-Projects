@@ -79,5 +79,5 @@
 
 - OTP Code
 
-![preview img](/Otp code.png)
+![preview img](/otpcode.png)
 
